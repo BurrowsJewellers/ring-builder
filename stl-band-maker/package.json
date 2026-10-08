@@ -1,0 +1,11 @@
+{
+  "name": "stl-band-maker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based parametric ring band generator with STL export",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node test/test-core.js"
+  },
+  "license": "UNLICENSED"
+}
